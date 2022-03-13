@@ -1,0 +1,8 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/SeungWookHan/docker-example.git",
+  "author": "SeungWookHan <hswook12@me.com>",
+  "license": "MIT"
+}
