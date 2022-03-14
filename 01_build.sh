@@ -1,0 +1,1 @@
+docker build -t express-example:1.0 .
