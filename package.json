@@ -4,5 +4,14 @@
   "main": "src/app.js",
   "repository": "https://github.com/SeungWookHan/docker-example.git",
   "author": "SeungWookHan <hswook12@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
 }
