@@ -5,6 +5,10 @@ const PORT = 80;
 async function startServer() {
   const app = express();
 
+  // app.get('/', function(req, res) {
+  //   res.send('hello world');
+  // });
+
   app.listen(PORT, () => {
     console.log(`
       ################################################
