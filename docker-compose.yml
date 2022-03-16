@@ -6,3 +6,16 @@ services:
       - "80:80"
     volumes:
       - ./src:/usr/src/app/src
+
+  # express-app2:
+  #   build: .
+  #   image: "express2-example:1.0"
+  #   ports:
+  #     - "3000:80"
+  #   volumes:
+  #     - ./src:/usr/src/app/src
+  #   container_name: express-app2
+  
+# 볼륨실습
+# 서비스2 띄우기 실습
+# docker-hub에서 이미지 찾아서 실습
