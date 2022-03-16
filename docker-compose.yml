@@ -24,4 +24,5 @@ services:
 
 # 볼륨실습
 # 서비스2 띄우기 실습
-# docker-hub에서 이미지 찾아서 실습
+# docker-hub에서 이미지 찾아서 실습 -> ganache
+# 개발 환경 = 굳이 Dockerfile 없어도 됨
