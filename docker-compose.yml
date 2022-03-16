@@ -15,7 +15,13 @@ services:
   #   volumes:
   #     - ./src:/usr/src/app/src
   #   container_name: express-app2
+
+  # ganache:
+  #   image: "trufflesuite/ganache:latest"
+  #   ports:
+  #     - "8545:8545"
   
+
 # 볼륨실습
 # 서비스2 띄우기 실습
 # docker-hub에서 이미지 찾아서 실습
