@@ -9,6 +9,10 @@ async function startServer() {
   //   res.send('hello world');
   // });
 
+    // app.get('/test', function(req, res) {
+  //   res.send('hello test');
+  // });
+
   app.listen(PORT, () => {
     console.log(`
       ################################################
